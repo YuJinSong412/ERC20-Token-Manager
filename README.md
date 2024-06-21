@@ -103,5 +103,9 @@ networks: {
 
 ```
  
+ ## openzeppelin
  
-npm install @openzeppelin/contracts@4.9.3  //이걸로 버전 지정해줌
+ ```
+ npm install @openzeppelin/contracts@4.9.3 //I specified the version as this.
+ ```
+
